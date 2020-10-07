@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8a3efff-4906-46d2-be1c-ed8b0518a955" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso Fundamentos Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curso Fundamentos Java/AreaCirculo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curso Fundamentos Java/AreasSwitch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curso Fundamentos Java/CalculadoraSwitch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curso Fundamentos Java/Cuadrado.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curso Fundamentos Java/Division.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curso Fundamentos Java/Factorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curso Fundamentos Java/Fibonacci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curso Fundamentos Java/LecturaDeDatos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curso Fundamentos Java/NumeroMayor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curso Fundamentos Java/NumeroMayor3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curso Fundamentos Java/NumerosNoMultiplosTres.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curso Fundamentos Java/NumerosPares.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curso Fundamentos Java/PerimetroCirculo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curso Fundamentos Java/PolinomioSegundoGrado.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curso Fundamentos Java/Porcentaje.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curso Fundamentos Java/PromediaInfinito.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curso Fundamentos Java/PromedioMaterias.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curso Fundamentos Java/RadioCirculo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curso Fundamentos Java/Rectangulo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curso Fundamentos Java/ReglaTres.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curso Fundamentos Java/ResiduoDeTres.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curso Fundamentos Java/Romanos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curso Fundamentos Java/Scope.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curso Fundamentos Java/VectorRecursivo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AreaCirculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AreasSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculadoraSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cuadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LecturaDeDatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumeroMayor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumeroMayor3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumerosNoMultiplosTres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumerosPares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PerimetroCirculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolinomioSegundoGrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Porcentaje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PromediaInfinito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PromedioMaterias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RadioCirculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rectangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReglaTres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ResiduoDeTres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Romanos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VectorRecursivo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hVT88sqV84XIKVlGy3RyBhVCgP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Fibonacci">
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fibonacci" />
+      <module name="Curso Fundamentos Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumerosNoMultiplosTres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumerosNoMultiplosTres" />
+      <module name="Curso Fundamentos Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumerosPares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumerosPares" />
+      <module name="Curso Fundamentos Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Romanos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Romanos" />
+      <module name="Curso Fundamentos Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VectorRecursivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VectorRecursivo" />
+      <module name="Curso Fundamentos Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.VectorRecursivo" />
+        <item itemvalue="Application.Romanos" />
+        <item itemvalue="Application.NumerosNoMultiplosTres" />
+        <item itemvalue="Application.NumerosPares" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8a3efff-4906-46d2-be1c-ed8b0518a955" name="Default Changelist" comment="" />
+      <created>1600095101302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600095101302</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1324" height="165" key="GridCell.Tab.0.bottom" timestamp="1602089079952">
+      <screen x="0" y="23" width="1366" height="679" />
+    </state>
+    <state width="1324" height="165" key="GridCell.Tab.0.bottom/0.23.1366.677@0.23.1366.677" timestamp="1600184167739" />
+    <state width="1324" height="165" key="GridCell.Tab.0.bottom/0.23.1366.679@0.23.1366.679" timestamp="1602089079952" />
+    <state width="1324" height="165" key="GridCell.Tab.0.center" timestamp="1602089079951">
+      <screen x="0" y="23" width="1366" height="679" />
+    </state>
+    <state width="1324" height="165" key="GridCell.Tab.0.center/0.23.1366.677@0.23.1366.677" timestamp="1600184167739" />
+    <state width="1324" height="165" key="GridCell.Tab.0.center/0.23.1366.679@0.23.1366.679" timestamp="1602089079951" />
+    <state width="1324" height="165" key="GridCell.Tab.0.left" timestamp="1602089079949">
+      <screen x="0" y="23" width="1366" height="679" />
+    </state>
+    <state width="1324" height="165" key="GridCell.Tab.0.left/0.23.1366.677@0.23.1366.677" timestamp="1600184167738" />
+    <state width="1324" height="165" key="GridCell.Tab.0.left/0.23.1366.679@0.23.1366.679" timestamp="1602089079949" />
+    <state width="1324" height="165" key="GridCell.Tab.0.right" timestamp="1602089079951">
+      <screen x="0" y="23" width="1366" height="679" />
+    </state>
+    <state width="1324" height="165" key="GridCell.Tab.0.right/0.23.1366.677@0.23.1366.677" timestamp="1600184167739" />
+    <state width="1324" height="165" key="GridCell.Tab.0.right/0.23.1366.679@0.23.1366.679" timestamp="1602089079951" />
+    <state x="171" y="23" key="SettingsEditor" timestamp="1600180068078">
+      <screen x="0" y="23" width="1366" height="677" />
+    </state>
+    <state x="171" y="23" key="SettingsEditor/0.23.1366.677@0.23.1366.677" timestamp="1600180068078" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1600109785500">
+      <screen x="0" y="23" width="1366" height="677" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.23.1366.677@0.23.1366.677" timestamp="1600109785500" />
+    <state x="77" y="23" key="new project wizard" timestamp="1600184164867">
+      <screen x="0" y="23" width="1366" height="677" />
+    </state>
+    <state x="77" y="23" key="new project wizard/0.23.1366.677@0.23.1366.677" timestamp="1600184164867" />
+  </component>
+</project>
